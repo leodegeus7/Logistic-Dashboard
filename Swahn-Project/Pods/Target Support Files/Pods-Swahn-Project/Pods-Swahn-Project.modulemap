@@ -1,0 +1,6 @@
+framework module Pods_Swahn_Project {
+  umbrella header "Pods-Swahn-Project-umbrella.h"
+
+  export *
+  module * { export * }
+}

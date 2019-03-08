@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Logic.testIfThereIsFutureSpaceInWarehouse(wareHouse:):Logic.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "wareHouse.numberOfFutureAndPresentSpot">
+            </PersistentString>
+            <PersistentString
+               value = "wareHouse.numberOfSpots">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.textFieldShouldReturn(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Logic.getFreeWarehouses():Logic.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
